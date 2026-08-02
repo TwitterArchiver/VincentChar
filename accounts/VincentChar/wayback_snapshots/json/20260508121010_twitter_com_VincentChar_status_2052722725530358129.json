@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820734137483001856",
+    "conversation_id": "2052722725530358129",
+    "created_at": "2026-05-08T12:10:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T13:10:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052722725530358129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1944331145254219776",
+          "start": 3,
+          "username": "MRSqusgpIO24853"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052722725530358129",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052308715160907911",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "verified",
+    "text": "RT @MRSqusgpIO24853: オーバードーズに興味を持ったのが間違えだったし不登校になったのが間違えだし障害者なったのが間違えだし小学校何度も転校したのが間違えだった。\n1つ間違えば人生なんか簡単に崩れるんだね。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820734137483001856",
+        "conversation_id": "2052722725530358129",
+        "created_at": "2026-05-08T12:10:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T13:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052722725530358129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1944331145254219776",
+              "start": 3,
+              "username": "MRSqusgpIO24853"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052722725530358129",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052308715160907911",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "verified",
+        "text": "RT @MRSqusgpIO24853: オーバードーズに興味を持ったのが間違えだったし不登校になったのが間違えだし障害者なったのが間違えだし小学校何度も転校したのが間違えだった。\n1つ間違えば人生なんか簡単に崩れるんだね。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944331145254219776",
+        "conversation_id": "2052308715160907911",
+        "created_at": "2026-05-07T08:45:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T09:45:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052308715160907911"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052308715160907911",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 5219,
+          "like_count": 372,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 30
+        },
+        "reply_settings": "verified",
+        "text": "オーバードーズに興味を持ったのが間違えだったし不登校になったのが間違えだし障害者なったのが間違えだし小学校何度も転校したのが間違えだった。\n1つ間違えば人生なんか簡単に崩れるんだね。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-06T08:10:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "🩹🩹我是小文Vincent丨重焦oder pr至上丨INTP-T丨我喜欢Resident Evil4 塞尔达传说 主播女孩 GTA5丨你们可以找我玩 助力我成功戒o🩹🩹\nWorld's really stomping on your dreams.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vincentcharbon…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vincentcharbonneau2",
+                "start": 0,
+                "url": "https://t.co/9q4lnmyfhK"
+              }
+            ]
+          }
+        },
+        "id": "1820734137483001856",
+        "location": "天国",
+        "name": "Vincent Charbonneau🧬🧬",
+        "pinned_tweet_id": "2048328477011808329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047872378265563136/0b59DQZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 119,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 35
+        },
+        "url": "https://t.co/9q4lnmyfhK",
+        "username": "VincentChar",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T09:40:54.000Z",
+        "description": "呟きたいことをここに書きます。\n闘病垢。\nDMは時差あるかもなんで許して。\n\nADHD+ASD+片親+不安障害+うつ+人間関係苦手+色々。\nhttps://t.co/EG3rFy7wnvサブ垢",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/d07JbZ74UG304",
+                "end": 93,
+                "expanded_url": "https://x.com/d07JbZ74UG304",
+                "start": 70,
+                "url": "https://t.co/EG3rFy7wnv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/imsqvgdgp6k68a…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/imsqvgdgp6k68ah?t=Bvbghr&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/yy4SqCY1Dp"
+              }
+            ]
+          }
+        },
+        "id": "1944331145254219776",
+        "name": "もち💨",
+        "pinned_tweet_id": "2050088099196367304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017867588504850434/M3ivTom7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 446,
+          "like_count": 48839,
+          "listed_count": 4,
+          "media_count": 195,
+          "tweet_count": 2829
+        },
+        "url": "https://t.co/yy4SqCY1Dp",
+        "username": "MRSqusgpIO24853",
+        "verified": false
+      }
+    ]
+  }
+}

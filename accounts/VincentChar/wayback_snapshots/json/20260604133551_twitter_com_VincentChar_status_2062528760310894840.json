@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820734137483001856",
+    "conversation_id": "2062528760310894840",
+    "created_at": "2026-06-04T13:35:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T14:35:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062528760310894840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1700194970710274048",
+          "start": 3,
+          "username": "K9_KURO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062528760310894840",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 260
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062231311130275948",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @K9_KURO: iiiiiiitss MY BIRTHDAYYYYY BIIIIIITCH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820734137483001856",
+        "conversation_id": "2062528760310894840",
+        "created_at": "2026-06-04T13:35:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T14:35:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062528760310894840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1700194970710274048",
+              "start": 3,
+              "username": "K9_KURO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062528760310894840",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 260
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062231311130275948",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @K9_KURO: iiiiiiitss MY BIRTHDAYYYYY BIIIIIITCH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700194970710274048",
+        "conversation_id": "2062231311130275948",
+        "created_at": "2026-06-03T17:53:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T18:53:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062231311130275948"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062231311130275948",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 54397,
+          "like_count": 4253,
+          "quote_count": 13,
+          "reply_count": 485,
+          "retweet_count": 260
+        },
+        "reply_settings": "everyone",
+        "text": "iiiiiiitss MY BIRTHDAYYYYY BIIIIIITCH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-06T08:10:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "我是小文Vincent Charbonneau\n重焦精分oder 致幻劑 解離劑 策劃藥至上丨INTP-T\n我喜歡Resident Evil4 塞爾達傳說 GTA5\nWorld's really stomping on your dreams.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vincentcharbon…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vincentcharbonneau2",
+                "start": 0,
+                "url": "https://t.co/9q4lnmyfhK"
+              }
+            ]
+          }
+        },
+        "id": "1820734137483001856",
+        "location": "天国",
+        "name": "Vincent Charbonneau",
+        "pinned_tweet_id": "2057788188584989134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057581681855635456/VUL3peTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 181,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 102
+        },
+        "url": "https://t.co/9q4lnmyfhK",
+        "username": "VincentChar",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-08T17:10:51.000Z",
+        "description": "✧ Pirate VTuber ✧ ❤️‍🩹🔞 ✧ #K9Fanart #K9KUROCLIPS ✧ パパ @xeyaya ✧ママ @ppslayer_vt ✧ \n✧ 3D MODEL @VCUSTOM3D",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 35,
+                "start": 26,
+                "tag": "K9Fanart"
+              },
+              {
+                "end": 48,
+                "start": 36,
+                "tag": "K9KUROCLIPS"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 61,
+                "start": 54,
+                "username": "xeyaya"
+              },
+              {
+                "end": 78,
+                "start": 66,
+                "username": "ppslayer_vt"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "VCUSTOM3D"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/k9kuro",
+                "end": 23,
+                "expanded_url": "http://twitch.tv/k9kuro",
+                "start": 0,
+                "url": "https://t.co/ry1ZR7FX5e"
+              }
+            ]
+          }
+        },
+        "id": "1700194970710274048",
+        "location": "📧 k9kuro@valianttalent.com",
+        "name": "KURO ☠️❤️‍🩹",
+        "pinned_tweet_id": "2060593403252109519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039800521985503232/pT913mw6_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305487,
+          "following_count": 513,
+          "like_count": 10777,
+          "listed_count": 431,
+          "media_count": 1301,
+          "tweet_count": 5117
+        },
+        "url": "https://t.co/ry1ZR7FX5e",
+        "username": "K9_KURO",
+        "verified": true
+      }
+    ]
+  }
+}

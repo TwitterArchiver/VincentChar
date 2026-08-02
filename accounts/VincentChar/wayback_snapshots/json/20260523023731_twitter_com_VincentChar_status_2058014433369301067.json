@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820734137483001856",
+    "conversation_id": "2058014433369301067",
+    "created_at": "2026-05-23T02:37:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T03:37:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058014433369301067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1699445300950093824",
+          "start": 3,
+          "username": "linlin444444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058014433369301067",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052636944098853163",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @linlin444444: 吸毒不会影响颜值，断吸和劣质毒品才会"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820734137483001856",
+        "conversation_id": "2058014433369301067",
+        "created_at": "2026-05-23T02:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T03:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058014433369301067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1699445300950093824",
+              "start": 3,
+              "username": "linlin444444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058014433369301067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052636944098853163",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @linlin444444: 吸毒不会影响颜值，断吸和劣质毒品才会"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "2052636944098853163",
+        "created_at": "2026-05-08T06:29:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T07:29:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052636944098853163"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052636944098853163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 17211,
+          "like_count": 148,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "吸毒不会影响颜值，断吸和劣质毒品才会"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-06T08:10:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "我是小文Vincent Charbonneau\n重焦精分oder 致幻劑 解離劑 策劃藥至上丨INTP-T\n我喜歡Resident Evil4 塞爾達傳說 GTA5\nWorld's really stomping on your dreams.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vincentcharbon…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vincentcharbonneau2",
+                "start": 0,
+                "url": "https://t.co/9q4lnmyfhK"
+              }
+            ]
+          }
+        },
+        "id": "1820734137483001856",
+        "location": "天国",
+        "name": "Vincent Charbonneau",
+        "pinned_tweet_id": "2057787074309394739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057581681855635456/VUL3peTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 162,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 67
+        },
+        "url": "https://t.co/9q4lnmyfhK",
+        "username": "VincentChar",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "林林婊翻全世界",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 23,
+                "expanded_url": "https://www.laa.onl",
+                "start": 0,
+                "url": "https://t.co/ccXEa3StK7"
+              }
+            ]
+          }
+        },
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林林林林林",
+        "pinned_tweet_id": "1937100433887216005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5555,
+          "following_count": 57,
+          "like_count": 469,
+          "listed_count": 11,
+          "media_count": 22,
+          "tweet_count": 61
+        },
+        "url": "https://t.co/ccXEa3StK7",
+        "username": "linlin444444",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820734137483001856",
+    "conversation_id": "1821485173533446191",
+    "created_at": "2024-08-08T09:54:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-08T10:54:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1821485173533446191"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1821485173533446191",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "炮原友则\n1 禁止爱上炮友\n2 禁止对炮友隐瞒性病\n3 禁止do时杀掉炮友\n4 禁止自己爽了不管炮友\n5 禁止炮友短于10cm\n6 禁止在对方不同意、不知情的情况下不戴 \n7 禁止接吻之前吃大蒜大葱香菜\n8 禁止长的太丑，会吓到萎\n9 禁止假装玩sm把炮友往死里打\n10 禁止在对方不同意、不知情情况录下视频"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820734137483001856",
+        "conversation_id": "1821485173533446191",
+        "created_at": "2024-08-08T09:54:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-08T10:54:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1821485173533446191"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1821485173533446191",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "炮原友则\n1 禁止爱上炮友\n2 禁止对炮友隐瞒性病\n3 禁止do时杀掉炮友\n4 禁止自己爽了不管炮友\n5 禁止炮友短于10cm\n6 禁止在对方不同意、不知情的情况下不戴 \n7 禁止接吻之前吃大蒜大葱香菜\n8 禁止长的太丑，会吓到萎\n9 禁止假装玩sm把炮友往死里打\n10 禁止在对方不同意、不知情情况录下视频"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-06T08:10:30.000Z",
+        "description": "有情感障碍m👾👾intp混圈杂不线下/二次.vx➕Emmm_0018👾👾【xp重口慎加】",
+        "id": "1820734137483001856",
+        "location": "浙江",
+        "name": "Vincent Charbonneau",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820993579495649288/wauuyAW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 15,
+          "like_count": 13,
+          "listed_count": 0,
+          "tweet_count": 8
+        },
+        "username": "VincentChar",
+        "verified": false
+      }
+    ]
+  }
+}

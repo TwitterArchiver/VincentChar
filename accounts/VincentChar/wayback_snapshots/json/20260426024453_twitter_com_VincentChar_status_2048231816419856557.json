@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820734137483001856",
+    "conversation_id": "2048231816419856557",
+    "created_at": "2026-04-26T02:44:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T03:44:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048231816419856557"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/asukai_yuki/st…",
+          "end": 159,
+          "expanded_url": "https://twitter.com/asukai_yuki/status/2047964563950522604",
+          "start": 136,
+          "url": "https://t.co/N6wzDbxyKn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048231816419856557",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047964563950522604",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "金刚烷胺真的是畜生药…想起来我在上半年状态非常差 吃了15t左右 搭配美金刚4t，意外的是我没有死。\n当时外部幻觉非常强烈 有很强烈的悲伤恐惧感 睡睡醒醒很多次看见眼前的幻觉便又倒了，说不出话头晕眼花，从床上摔下去 背磕到床脚 整个后背都青紫了…\n金刚烷胺实在是太危险… https://t.co/N6wzDbxyKn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820734137483001856",
+        "conversation_id": "2048231816419856557",
+        "created_at": "2026-04-26T02:44:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T03:44:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048231816419856557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/asukai_yuki/st…",
+              "end": 159,
+              "expanded_url": "https://twitter.com/asukai_yuki/status/2047964563950522604",
+              "start": 136,
+              "url": "https://t.co/N6wzDbxyKn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048231816419856557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047964563950522604",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "金刚烷胺真的是畜生药…想起来我在上半年状态非常差 吃了15t左右 搭配美金刚4t，意外的是我没有死。\n当时外部幻觉非常强烈 有很强烈的悲伤恐惧感 睡睡醒醒很多次看见眼前的幻觉便又倒了，说不出话头晕眼花，从床上摔下去 背磕到床脚 整个后背都青紫了…\n金刚烷胺实在是太危险… https://t.co/N6wzDbxyKn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013233628847980544",
+        "conversation_id": "2047964563950522604",
+        "created_at": "2026-04-25T09:02:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T10:02:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047964563950522604"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047964563950522604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 639,
+          "like_count": 13,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家真的不要吃晚安。我有三次事故。\n第一次干肠胃炎上吐下泻挂水挂了三天。\n第二次吃了骑车去医院看病的时候摔了人被甩出去 人腿伤了走不动 车坏了\n第三次吃了迷迷糊糊在宿舍床上摔下去脑震荡 ，失忆、脑子转不动、晕了好几天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-06T08:10:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "🩹🩹我是小文Vincent丨重焦oder pr至上丨INTP-T丨我喜欢Resident Evil4 塞尔达传说 主播女孩 GTA5丨你们可以找我玩 助力我成功戒o🩹🩹\nWorld's really stomping on your dreams.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vincentcharbon…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vincentcharbonneau2",
+                "start": 0,
+                "url": "https://t.co/9q4lnmyfhK"
+              }
+            ]
+          }
+        },
+        "id": "1820734137483001856",
+        "location": "天国",
+        "name": "Vincent Charbonneau🧬🧬",
+        "pinned_tweet_id": "2048018138923708700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047872378265563136/0b59DQZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 106,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 10
+        },
+        "url": "https://t.co/9q4lnmyfhK",
+        "username": "VincentChar",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T12:54:43.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈＝郁希/飛鳥井ゆき | enby 泛性恋无浪漫，和我的琴已经结婚 | 06| 双相焦虑 | 🎸🎨  | rock'n'roll | oc | 我见你如于深井中窥飞鸟",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mikanseinonatsu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mikanseinonatsu",
+                "start": 0,
+                "url": "https://t.co/1wmN2eVRYQ"
+              }
+            ]
+          }
+        },
+        "id": "2013233628847980544",
+        "location": "喜欢我请给我打钱❤️",
+        "name": "郁希",
+        "pinned_tweet_id": "2041094444750106844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030567969726840832/5gci_IPw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 208,
+          "like_count": 322,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 2182
+        },
+        "url": "https://t.co/1wmN2eVRYQ",
+        "username": "Asukai_Yuki",
+        "verified": false
+      }
+    ]
+  }
+}

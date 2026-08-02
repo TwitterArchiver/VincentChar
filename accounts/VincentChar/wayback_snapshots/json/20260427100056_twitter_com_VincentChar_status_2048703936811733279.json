@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820734137483001856",
+    "conversation_id": "2048020542914179101",
+    "created_at": "2026-04-27T10:00:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T11:00:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048703936811733279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2047731480739385344",
+          "start": 0,
+          "username": "Lilithqri"
+        },
+        {
+          "end": 21,
+          "id": "2047132639564570624",
+          "start": 11,
+          "username": "Ymmwennie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048703936811733279",
+    "in_reply_to_user_id": "2047731480739385344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048429954917150935",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lilithqri @Ymmwennie 我经常待在国外都是线下药店买啦，国内我不太了解 抱歉呀TVT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820734137483001856",
+        "conversation_id": "2048020542914179101",
+        "created_at": "2026-04-27T10:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T11:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048703936811733279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2047731480739385344",
+              "start": 0,
+              "username": "Lilithqri"
+            },
+            {
+              "end": 21,
+              "id": "2047132639564570624",
+              "start": 11,
+              "username": "Ymmwennie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048703936811733279",
+        "in_reply_to_user_id": "2047731480739385344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048429954917150935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lilithqri @Ymmwennie 我经常待在国外都是线下药店买啦，国内我不太了解 抱歉呀TVT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047731480739385344",
+        "conversation_id": "2048020542914179101",
+        "created_at": "2026-04-26T15:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T16:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048429954917150935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820734137483001856",
+              "start": 0,
+              "username": "VincentChar"
+            },
+            {
+              "end": 23,
+              "id": "2047132639564570624",
+              "start": 13,
+              "username": "Ymmwennie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048429954917150935",
+        "in_reply_to_user_id": "1820734137483001856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048030065422901756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VincentChar @Ymmwennie 都是在哪里买的呀…我被💊贩子骗了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-06T08:10:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "🩹🩹我是小文Vincent丨重焦oder pr至上丨INTP-T丨我喜欢Resident Evil4 塞尔达传说 主播女孩 GTA5丨你们可以找我玩 助力我成功戒o🩹🩹\nWorld's really stomping on your dreams.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vincentcharbon…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vincentcharbonneau2",
+                "start": 0,
+                "url": "https://t.co/9q4lnmyfhK"
+              }
+            ]
+          }
+        },
+        "id": "1820734137483001856",
+        "location": "天国",
+        "name": "Vincent Charbonneau🧬🧬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047872378265563136/0b59DQZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 107,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 12
+        },
+        "url": "https://t.co/9q4lnmyfhK",
+        "username": "VincentChar",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-24T17:38:10.000Z",
+        "description": "",
+        "id": "2047731480739385344",
+        "name": "Lilith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047735326849077248/vF650hw4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 5,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 7
+        },
+        "username": "Lilithqri",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-23T01:57:59.000Z",
+        "description": "",
+        "id": "2047132639564570624",
+        "name": "Ymm",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047132980276342784/F2GTkrkl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 13,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 9
+        },
+        "username": "Ymmwennie",
+        "verified": false
+      }
+    ]
+  }
+}

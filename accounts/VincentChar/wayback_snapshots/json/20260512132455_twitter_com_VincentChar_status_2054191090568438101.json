@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2054189733862100992"
+      ]
+    },
+    "author_id": "1820734137483001856",
+    "conversation_id": "2054191090568438101",
+    "created_at": "2026-05-12T13:24:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T14:24:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054191090568438101"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/diOtaNqNr0",
+          "end": 23,
+          "expanded_url": "https://x.com/VincentChar/status/2054191090568438101/video/1",
+          "media_key": "13_2054189733862100992",
+          "start": 0,
+          "url": "https://t.co/diOtaNqNr0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054191090568438101",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/diOtaNqNr0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 76633,
+        "height": 720,
+        "media_key": "13_2054189733862100992",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2054189733862100992/img/CgH0F8pLA8FqJb1d.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054189733862100992/vid/avc1/480x270/pcmIeYeuL40EsBpI.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054189733862100992/vid/avc1/640x360/5N1X4m5CXG0lHoRW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054189733862100992/vid/avc1/1280x720/0I5Qb3flUbWFJY79.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2054189733862100992/pl/W0t9GuBfzJCs6dxE.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2054189733862100992"
+          ]
+        },
+        "author_id": "1820734137483001856",
+        "conversation_id": "2054191090568438101",
+        "created_at": "2026-05-12T13:24:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T14:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054191090568438101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/diOtaNqNr0",
+              "end": 23,
+              "expanded_url": "https://x.com/VincentChar/status/2054191090568438101/video/1",
+              "media_key": "13_2054189733862100992",
+              "start": 0,
+              "url": "https://t.co/diOtaNqNr0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054191090568438101",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/diOtaNqNr0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-06T08:10:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "🩹🩹我是小文Vincent丨重焦oder pr至上丨INTP-T丨我喜欢Resident Evil4 塞尔达传说 主播女孩 GTA5丨你们可以找我玩 助力我成功戒o🩹🩹\nWorld's really stomping on your dreams.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vincentcharbon…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vincentcharbonneau2",
+                "start": 0,
+                "url": "https://t.co/9q4lnmyfhK"
+              }
+            ]
+          }
+        },
+        "id": "1820734137483001856",
+        "location": "天国",
+        "name": "Vincent Charbonneau🧬🧬",
+        "pinned_tweet_id": "2048328477011808329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047872378265563136/0b59DQZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 120,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 52
+        },
+        "url": "https://t.co/9q4lnmyfhK",
+        "username": "VincentChar",
+        "verified": false
+      }
+    ]
+  }
+}

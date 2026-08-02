@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820734137483001856",
+    "conversation_id": "2048326704536653921",
+    "created_at": "2026-04-26T09:01:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T10:01:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048326704536653921"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "NGL: Anonymous Q&A",
+          "display_url": "ngl.link/vincentcharbon…",
+          "end": 93,
+          "expanded_url": "https://ngl.link/vincentcharbonneau2",
+          "start": 70,
+          "status": 200,
+          "title": "@vincentcharbonneau: Send me anonymous messages!",
+          "unwound_url": "https://ngl.link/vincentcharbonneau2",
+          "url": "https://t.co/zrls9Flk5E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048326704536653921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你們好呀我是小文Vincent丨簡繁中🇨🇳Eng🇬🇧\n我只是一個精神病 喜歡玩遊戲和吃藥藥因為在墻內沒有人鳥我 是來交朋友的 互動大歡迎！！https://t.co/zrls9Flk5E\n這是我的提問箱 可以找我玩🩹🩹\n💊藥理學習中 有不對的地方可以指出來呀這個號主要是發碎碎唸以及藥物相關 不涉政 🧬\n喜歡我的你悄悄告訴我呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820734137483001856",
+        "conversation_id": "2048326704536653921",
+        "created_at": "2026-04-26T09:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T10:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048326704536653921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/vincentcharbon…",
+              "end": 93,
+              "expanded_url": "https://ngl.link/vincentcharbonneau2",
+              "start": 70,
+              "status": 200,
+              "title": "@vincentcharbonneau: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/vincentcharbonneau2",
+              "url": "https://t.co/zrls9Flk5E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048326704536653921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你們好呀我是小文Vincent丨簡繁中🇨🇳Eng🇬🇧\n我只是一個精神病 喜歡玩遊戲和吃藥藥因為在墻內沒有人鳥我 是來交朋友的 互動大歡迎！！https://t.co/zrls9Flk5E\n這是我的提問箱 可以找我玩🩹🩹\n💊藥理學習中 有不對的地方可以指出來呀這個號主要是發碎碎唸以及藥物相關 不涉政 🧬\n喜歡我的你悄悄告訴我呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-06T08:10:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "🩹🩹我是小文Vincent丨重焦oder pr至上丨INTP-T丨我喜欢Resident Evil4 塞尔达传说 主播女孩 GTA5丨你们可以找我玩 助力我成功戒o🩹🩹\nWorld's really stomping on your dreams.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vincentcharbon…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vincentcharbonneau2",
+                "start": 0,
+                "url": "https://t.co/9q4lnmyfhK"
+              }
+            ]
+          }
+        },
+        "id": "1820734137483001856",
+        "location": "天国",
+        "name": "Vincent Charbonneau🧬🧬",
+        "pinned_tweet_id": "2048323352352420333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047872378265563136/0b59DQZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 106,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 10
+        },
+        "url": "https://t.co/9q4lnmyfhK",
+        "username": "VincentChar",
+        "verified": false
+      }
+    ]
+  }
+}

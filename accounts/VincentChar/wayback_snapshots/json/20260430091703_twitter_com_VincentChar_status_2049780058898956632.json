@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820734137483001856",
+    "conversation_id": "2049621374361342427",
+    "created_at": "2026-04-30T09:17:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T10:17:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049780058898956632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1944331145254219776",
+          "start": 0,
+          "username": "MRSqusgpIO24853"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049780058898956632",
+    "in_reply_to_user_id": "1944331145254219776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049621374361342427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MRSqusgpIO24853 嫌な医者…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820734137483001856",
+        "conversation_id": "2049621374361342427",
+        "created_at": "2026-04-30T09:17:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T10:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049780058898956632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1944331145254219776",
+              "start": 0,
+              "username": "MRSqusgpIO24853"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049780058898956632",
+        "in_reply_to_user_id": "1944331145254219776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049621374361342427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MRSqusgpIO24853 嫌な医者…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944331145254219776",
+        "conversation_id": "2049621374361342427",
+        "created_at": "2026-04-29T22:46:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T23:46:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049621374361342427"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049621374361342427",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 47032,
+          "like_count": 1376,
+          "quote_count": 22,
+          "reply_count": 20,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "俺「死にたいです」\n俺「薬の量増やしてください」\n主治医「おけおけ笑」\n主治医「アリピプラゾールの分量増やしておくね」\n俺「はい…」\n主治医「後死にたいばっか言ってる人が結局一番生きるから（笑）」\n↑\n本当に死んでやろうか？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-06T08:10:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "🩹🩹我是小文Vincent丨重焦oder pr至上丨INTP-T丨我喜欢Resident Evil4 塞尔达传说 主播女孩 GTA5丨你们可以找我玩 助力我成功戒o🩹🩹\nWorld's really stomping on your dreams.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vincentcharbon…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vincentcharbonneau2",
+                "start": 0,
+                "url": "https://t.co/9q4lnmyfhK"
+              }
+            ]
+          }
+        },
+        "id": "1820734137483001856",
+        "location": "天国",
+        "name": "Vincent Charbonneau🧬🧬",
+        "pinned_tweet_id": "2048328477011808329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047872378265563136/0b59DQZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 111,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 17
+        },
+        "url": "https://t.co/9q4lnmyfhK",
+        "username": "VincentChar",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T09:40:54.000Z",
+        "description": "呟きたいことをここに書きます。\n主な投稿は障害のつらさや人間関係のこと。\nDMは時差あるかもなんで許して。\nサブ垢です。\nhttps://t.co/EG3rFy7wnv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/d07JbZ74UG304",
+                "end": 84,
+                "expanded_url": "https://x.com/d07JbZ74UG304",
+                "start": 61,
+                "url": "https://t.co/EG3rFy7wnv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/imsqvgdgp6k68a…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/imsqvgdgp6k68ah?t=Bvbghr&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/yy4SqCY1Dp"
+              }
+            ]
+          }
+        },
+        "id": "1944331145254219776",
+        "name": "もち💨",
+        "pinned_tweet_id": "2044191987876934089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017867588504850434/M3ivTom7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 416,
+          "like_count": 44578,
+          "listed_count": 6,
+          "media_count": 193,
+          "tweet_count": 2646
+        },
+        "url": "https://t.co/yy4SqCY1Dp",
+        "username": "MRSqusgpIO24853",
+        "verified": false
+      }
+    ]
+  }
+}

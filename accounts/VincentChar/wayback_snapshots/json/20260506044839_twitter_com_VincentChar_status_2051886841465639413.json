@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820734137483001856",
+    "conversation_id": "2051886841465639413",
+    "created_at": "2026-05-06T04:48:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T05:48:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051886841465639413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1448206950903255040",
+          "start": 3,
+          "username": "_Shikieiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051886841465639413",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051662335614586980",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_Shikieiki: 在下滑的经济环境中，传统的成功叙事早已崩塌，但是新的意义感尚未在此之上建立\n在这种情况下，物质使用是在个体层面进行抵抗的防御手段，旨在通过神经调节守住最后的精神领地\n但是！现行治理逻辑将复杂的社会调适问题简化为道德污名化，将ODer们推向更危险的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820734137483001856",
+        "conversation_id": "2051886841465639413",
+        "created_at": "2026-05-06T04:48:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T05:48:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051886841465639413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1448206950903255040",
+              "start": 3,
+              "username": "_Shikieiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051886841465639413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051662335614586980",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_Shikieiki: 在下滑的经济环境中，传统的成功叙事早已崩塌，但是新的意义感尚未在此之上建立\n在这种情况下，物质使用是在个体层面进行抵抗的防御手段，旨在通过神经调节守住最后的精神领地\n但是！现行治理逻辑将复杂的社会调适问题简化为道德污名化，将ODer们推向更危险的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "conversation_id": "2051662335614586980",
+        "created_at": "2026-05-05T13:56:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T14:56:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051662335614586980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_Shikieiki/sta…",
+              "end": 171,
+              "expanded_url": "https://twitter.com/_Shikieiki/status/2051659759913463939",
+              "start": 148,
+              "url": "https://t.co/vlvAPjK8Ib"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051662335614586980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 939,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051659759913463939",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在下滑的经济环境中，传统的成功叙事早已崩塌，但是新的意义感尚未在此之上建立\n在这种情况下，物质使用是在个体层面进行抵抗的防御手段，旨在通过神经调节守住最后的精神领地\n但是！现行治理逻辑将复杂的社会调适问题简化为道德污名化，将ODer们推向更危险的境地——黑市风险.\n本质上是对ODer的二次伤害 https://t.co/vlvAPjK8Ib"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-06T08:10:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "🩹🩹我是小文Vincent丨重焦oder pr至上丨INTP-T丨我喜欢Resident Evil4 塞尔达传说 主播女孩 GTA5丨你们可以找我玩 助力我成功戒o🩹🩹\nWorld's really stomping on your dreams.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vincentcharbon…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vincentcharbonneau2",
+                "start": 0,
+                "url": "https://t.co/9q4lnmyfhK"
+              }
+            ]
+          }
+        },
+        "id": "1820734137483001856",
+        "location": "天国",
+        "name": "Vincent Charbonneau🧬🧬",
+        "pinned_tweet_id": "2048328477011808329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047872378265563136/0b59DQZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 114,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 29
+        },
+        "url": "https://t.co/9q4lnmyfhK",
+        "username": "VincentChar",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "http://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/nDAVDyiKMs"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "解离之家(内含DXM，美金刚，MK801，请自取)暂关提问",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2051617505437950457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 891,
+          "following_count": 916,
+          "like_count": 27850,
+          "listed_count": 1,
+          "media_count": 481,
+          "tweet_count": 3950
+        },
+        "url": "https://t.co/nDAVDyiKMs",
+        "username": "_Shikieiki",
+        "verified": false
+      }
+    ]
+  }
+}

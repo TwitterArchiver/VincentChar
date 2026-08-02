@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945383009923854336",
+        "3_1945383009789591552",
+        "3_1945383009785372672"
+      ]
+    },
+    "author_id": "1820734137483001856",
+    "conversation_id": "1945383021240311945",
+    "created_at": "2025-07-16T07:20:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T08:20:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1945383021240311945"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/y6kINCcw2T",
+          "end": 94,
+          "expanded_url": "https://x.com/VincentChar/status/1945383021240311945/photo/1",
+          "media_key": "3_1945383009923854336",
+          "start": 71,
+          "url": "https://t.co/y6kINCcw2T"
+        },
+        {
+          "display_url": "pic.x.com/y6kINCcw2T",
+          "end": 94,
+          "expanded_url": "https://x.com/VincentChar/status/1945383021240311945/photo/1",
+          "media_key": "3_1945383009789591552",
+          "start": 71,
+          "url": "https://t.co/y6kINCcw2T"
+        },
+        {
+          "display_url": "pic.x.com/y6kINCcw2T",
+          "end": 94,
+          "expanded_url": "https://x.com/VincentChar/status/1945383021240311945/photo/1",
+          "media_key": "3_1945383009785372672",
+          "start": 71,
+          "url": "https://t.co/y6kINCcw2T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945383021240311945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有无滴泪妹 亚亚和我扩扩v՞⩌⌯⩌՞\n爱看雪图 负能\n我会夸夸很好相处^\n只扩🛰️呀^••^\n我是管人痴四期妹 同好➕➕\n直接扫p3加就好啦 https://t.co/y6kINCcw2T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1945383009923854336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv9jilqXcAAXv1E.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1945383009789591552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv9jilKWwAA9ZM7.jpg",
+        "width": 946
+      },
+      {
+        "height": 1530,
+        "media_key": "3_1945383009785372672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv9jilJWYAAr1Fa.jpg",
+        "width": 1146
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945383009923854336",
+            "3_1945383009789591552",
+            "3_1945383009785372672"
+          ]
+        },
+        "author_id": "1820734137483001856",
+        "conversation_id": "1945383021240311945",
+        "created_at": "2025-07-16T07:20:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T08:20:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945383021240311945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y6kINCcw2T",
+              "end": 94,
+              "expanded_url": "https://x.com/VincentChar/status/1945383021240311945/photo/1",
+              "media_key": "3_1945383009923854336",
+              "start": 71,
+              "url": "https://t.co/y6kINCcw2T"
+            },
+            {
+              "display_url": "pic.x.com/y6kINCcw2T",
+              "end": 94,
+              "expanded_url": "https://x.com/VincentChar/status/1945383021240311945/photo/1",
+              "media_key": "3_1945383009789591552",
+              "start": 71,
+              "url": "https://t.co/y6kINCcw2T"
+            },
+            {
+              "display_url": "pic.x.com/y6kINCcw2T",
+              "end": 94,
+              "expanded_url": "https://x.com/VincentChar/status/1945383021240311945/photo/1",
+              "media_key": "3_1945383009785372672",
+              "start": 71,
+              "url": "https://t.co/y6kINCcw2T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945383021240311945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有无滴泪妹 亚亚和我扩扩v՞⩌⌯⩌՞\n爱看雪图 负能\n我会夸夸很好相处^\n只扩🛰️呀^••^\n我是管人痴四期妹 同好➕➕\n直接扫p3加就好啦 https://t.co/y6kINCcw2T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-06T08:10:30.000Z",
+        "description": "Welcome to tour my corpse my organs  and this set of tortures imposed upon me.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "i.aois.top",
+                "end": 23,
+                "expanded_url": "http://i.aois.top",
+                "start": 0,
+                "url": "https://t.co/zys1hpdF1X"
+              }
+            ]
+          }
+        },
+        "id": "1820734137483001856",
+        "location": "挪威",
+        "name": "Vincent Charbonneau",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933575576767614976/9Hrk_nPv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 26,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 2
+        },
+        "url": "https://t.co/zys1hpdF1X",
+        "username": "VincentChar",
+        "verified": false
+      }
+    ]
+  }
+}

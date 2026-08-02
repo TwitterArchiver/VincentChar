@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820734137483001856",
+    "conversation_id": "2057788188584989134",
+    "created_at": "2026-05-22T11:38:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T12:38:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057788188584989134"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "NGL: Anonymous Q&A",
+          "display_url": "ngl.link/vincentcharbon…",
+          "end": 77,
+          "expanded_url": "https://ngl.link/vincentcharbonneau32914",
+          "images": [
+            {
+              "height": 631,
+              "url": "https://pbs.twimg.com/news_img/2057592334469206016/N8SVx0Je?format=jpg&name=orig",
+              "width": 1201
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2057592334469206016/N8SVx0Je?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 54,
+          "status": 200,
+          "title": "@vincentcharbonneau: Send me anonymous messages!",
+          "unwound_url": "https://ngl.link/vincentcharbonneau32914",
+          "url": "https://t.co/qlk77F44NP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057788188584989134",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "這裡是小文Vincent Charbonneau\n簡繁中🇨🇳Eng🇬🇧日本語🇯🇵\n歡迎藥物、心理咨詢\n匿名箱https://t.co/qlk77F44NP\n直fo就是喜歡你 同類互fo DM\n主要是發碎碎唸以及藥物相關 不鍵政\n重焦精分 沒回私信就是在醫院手機被收\n鍾愛致幻劑 解離劑 策劃藥 不出售物質"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820734137483001856",
+        "conversation_id": "2057788188584989134",
+        "created_at": "2026-05-22T11:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T12:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057788188584989134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/vincentcharbon…",
+              "end": 77,
+              "expanded_url": "https://ngl.link/vincentcharbonneau32914",
+              "images": [
+                {
+                  "height": 631,
+                  "url": "https://pbs.twimg.com/news_img/2057592334469206016/N8SVx0Je?format=jpg&name=orig",
+                  "width": 1201
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2057592334469206016/N8SVx0Je?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 54,
+              "status": 200,
+              "title": "@vincentcharbonneau: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/vincentcharbonneau32914",
+              "url": "https://t.co/qlk77F44NP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057788188584989134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這裡是小文Vincent Charbonneau\n簡繁中🇨🇳Eng🇬🇧日本語🇯🇵\n歡迎藥物、心理咨詢\n匿名箱https://t.co/qlk77F44NP\n直fo就是喜歡你 同類互fo DM\n主要是發碎碎唸以及藥物相關 不鍵政\n重焦精分 沒回私信就是在醫院手機被收\n鍾愛致幻劑 解離劑 策劃藥 不出售物質"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-06T08:10:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "我是小文Vincent Charbonneau\n重焦精分oder 致幻劑 解離劑 策劃藥至上丨INTP-T\n我喜歡Resident Evil4 塞爾達傳說 GTA5\nWorld's really stomping on your dreams.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vincentcharbon…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vincentcharbonneau2",
+                "start": 0,
+                "url": "https://t.co/9q4lnmyfhK"
+              }
+            ]
+          }
+        },
+        "id": "1820734137483001856",
+        "location": "天国",
+        "name": "Vincent Charbonneau",
+        "pinned_tweet_id": "2057787074309394739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057581681855635456/VUL3peTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 158,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 62
+        },
+        "url": "https://t.co/9q4lnmyfhK",
+        "username": "VincentChar",
+        "verified": false
+      }
+    ]
+  }
+}

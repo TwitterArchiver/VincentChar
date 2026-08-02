@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820734137483001856",
+    "conversation_id": "2069770709363196044",
+    "created_at": "2026-06-24T13:16:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T14:16:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069771727660527676"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2069771727660527676",
+    "in_reply_to_user_id": "1820734137483001856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069770709363196044",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我准备休息一阵子了 吸完睡睡完吸的迷幻日子我真是过够了、好想死在夏天 啊真是受不了了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820734137483001856",
+        "conversation_id": "2069770709363196044",
+        "created_at": "2026-06-24T13:16:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T14:16:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069771727660527676"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069771727660527676",
+        "in_reply_to_user_id": "1820734137483001856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069770709363196044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我准备休息一阵子了 吸完睡睡完吸的迷幻日子我真是过够了、好想死在夏天 啊真是受不了了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820734137483001856",
+        "conversation_id": "2069770709363196044",
+        "created_at": "2026-06-24T13:12:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T14:12:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069770709363196044"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069770709363196044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚安、这段时间想了很多，入夏了状态更差了些，我的人生就像一根看不到尽头电线，有的亮有的暗，有的长有的短，但我刚好有点短路，我这一路忽明忽暗，断断续续，远远的看过去，这个世界就像五彩斑斓的霓虹灯，好乱，好吵，难怪我总是跟不上、"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-06T08:10:30.000Z",
+        "description": "リスカ￤OD￤病み垢￤酒￤タバコ\n重焦精分情绪不稳/od自伤毒虫阿片鬼/痴迷烫吸 药物化学 药理 心理学 神经科学/Minimal Vocal/Kawaii Metal/叙事RPG 恐游 文字类\n什么也做不了，只能躲在被窝里哭的废物。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vincentcharbon…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vincentcharbonneau32914",
+                "start": 0,
+                "url": "https://t.co/K7v18DP8j5"
+              }
+            ]
+          }
+        },
+        "id": "1820734137483001856",
+        "location": "🚪52/88/520",
+        "name": "Vincent Charbonneau",
+        "pinned_tweet_id": "2067809598405525563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068314104515973120/4G599WbM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 215,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 126
+        },
+        "url": "https://t.co/K7v18DP8j5",
+        "username": "VincentChar",
+        "verified": false
+      }
+    ]
+  }
+}

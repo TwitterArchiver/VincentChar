@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820734137483001856",
+    "conversation_id": "2070471885411045535",
+    "created_at": "2026-06-26T11:38:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T12:38:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070471885411045535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1564990471327215619",
+          "start": 3,
+          "username": "bisco91395061"
+        },
+        {
+          "end": 30,
+          "id": "2024195400442531841",
+          "start": 19,
+          "username": "Xjiajiaouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070471885411045535",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070330141423898914",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bisco91395061: @Xjiajiaouo 滥用麻精药品就是吸毒，你我参与，立刻滥用，拥抱未来。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820734137483001856",
+        "conversation_id": "2070471885411045535",
+        "created_at": "2026-06-26T11:38:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T12:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070471885411045535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1564990471327215619",
+              "start": 3,
+              "username": "bisco91395061"
+            },
+            {
+              "end": 30,
+              "id": "2024195400442531841",
+              "start": 19,
+              "username": "Xjiajiaouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070471885411045535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070330141423898914",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bisco91395061: @Xjiajiaouo 滥用麻精药品就是吸毒，你我参与，立刻滥用，拥抱未来。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2070315710455411159",
+        "created_at": "2026-06-26T02:15:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T03:15:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070330141423898914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2024195400442531841",
+              "start": 0,
+              "username": "Xjiajiaouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070330141423898914",
+        "in_reply_to_user_id": "2024195400442531841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 546,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070315710455411159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xjiajiaouo 滥用麻精药品就是吸毒，你我参与，立刻滥用，拥抱未来。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-06T08:10:30.000Z",
+        "description": "リスカ￤OD￤病み垢￤酒￤タバコ\n重焦精分情绪不稳/od自伤毒虫阿片鬼/痴迷烫吸 药物化学 药理 心理学 神经科学/Minimal Vocal/Kawaii Metal/叙事RPG 恐游 文字类\n什么也做不了，只能躲在被窝里哭的废物。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vincentcharbon…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vincentcharbonneau32914",
+                "start": 0,
+                "url": "https://t.co/K7v18DP8j5"
+              }
+            ]
+          }
+        },
+        "id": "1820734137483001856",
+        "location": "🚪52/88/520",
+        "name": "Vincent Charbonneau",
+        "pinned_tweet_id": "2067809598405525563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068314104515973120/4G599WbM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 223,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 127
+        },
+        "url": "https://t.co/K7v18DP8j5",
+        "username": "VincentChar",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲❤️",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 318,
+          "like_count": 8631,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 1633
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-18T18:53:04.000Z",
+        "description": "血痂\n💊🔪🚬🩸\n我想发什么发什么，左右脑互搏是日常",
+        "id": "2024195400442531841",
+        "location": "天堂",
+        "name": "痂",
+        "pinned_tweet_id": "2067493808552702155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060564878767861760/SG8TP7X0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1279,
+          "following_count": 507,
+          "like_count": 16578,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 4228
+        },
+        "url": "",
+        "username": "Xjiajiaouo",
+        "verified": false
+      }
+    ]
+  }
+}

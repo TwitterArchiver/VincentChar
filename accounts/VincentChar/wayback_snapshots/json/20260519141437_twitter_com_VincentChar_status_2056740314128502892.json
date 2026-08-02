@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820734137483001856",
+    "conversation_id": "2056740314128502892",
+    "created_at": "2026-05-19T14:14:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T15:14:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056740314128502892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1558521768976846849",
+          "start": 3,
+          "username": "Lv4yI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056740314128502892",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056569743956648418",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lv4yI: 日语真是一门好暧昧的语言呀。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820734137483001856",
+        "conversation_id": "2056740314128502892",
+        "created_at": "2026-05-19T14:14:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T15:14:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056740314128502892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1558521768976846849",
+              "start": 3,
+              "username": "Lv4yI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056740314128502892",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056569743956648418",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lv4yI: 日语真是一门好暧昧的语言呀。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558521768976846849",
+        "conversation_id": "2056569743956648418",
+        "created_at": "2026-05-19T02:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T03:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056569743956648418"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056569743956648418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 19787,
+          "like_count": 207,
+          "quote_count": 1,
+          "reply_count": 40,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "日语真是一门好暧昧的语言呀。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-06T08:10:30.000Z",
+        "description": "🩹🩹我是小文Vincent丨重焦oder pr至上丨INTP-T丨我喜欢Resident Evil4 塞尔达传说 主播女孩 GTA5丨你们可以找我玩 助力我成功戒o🩹🩹💍@Hoshizaki_Nayu\nWorld's really stomping on your dreams.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 85,
+                "username": "Hoshizaki_Nayu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vincentcharbon…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vincentcharbonneau2",
+                "start": 0,
+                "url": "https://t.co/9q4lnmyfhK"
+              }
+            ]
+          }
+        },
+        "id": "1820734137483001856",
+        "location": "天国",
+        "name": "Vincent Charbonneau🧬🧬",
+        "pinned_tweet_id": "2048328477011808329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047872378265563136/0b59DQZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 142,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 57
+        },
+        "url": "https://t.co/9q4lnmyfhK",
+        "username": "VincentChar",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-13T18:32:09.000Z",
+        "description": "キティって呼んで| 🇨🇳 | 20↑ | 🚺 | 日本語を勉強し始めたばかり♡ | @k1ttyiwi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 42,
+                "username": "k1ttyiwi"
+              }
+            ]
+          }
+        },
+        "id": "1558521768976846849",
+        "name": "小郁",
+        "pinned_tweet_id": "2054953436551234036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053283168728608768/kOamveHC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 93,
+          "like_count": 6352,
+          "listed_count": 2,
+          "media_count": 50,
+          "tweet_count": 880
+        },
+        "username": "Lv4yI",
+        "verified": true
+      }
+    ]
+  }
+}

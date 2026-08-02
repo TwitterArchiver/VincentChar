@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820734137483001856",
+    "conversation_id": "2051878587415064989",
+    "created_at": "2026-05-06T04:15:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T05:15:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051878587415064989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2051874144929886208",
+          "start": 0,
+          "username": "Vincentbonneax"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051878587415064989",
+    "in_reply_to_user_id": "2051874144929886208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@Vincentbonneax雪兔相关会发在这个号"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820734137483001856",
+        "conversation_id": "2051878587415064989",
+        "created_at": "2026-05-06T04:15:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T05:15:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051878587415064989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2051874144929886208",
+              "start": 0,
+              "username": "Vincentbonneax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051878587415064989",
+        "in_reply_to_user_id": "2051874144929886208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@Vincentbonneax雪兔相关会发在这个号"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-06T08:10:30.000Z",
+        "description": "🩹🩹我是小文Vincent丨重焦oder pr至上丨INTP-T丨我喜欢Resident Evil4 塞尔达传说 主播女孩 GTA5丨你们可以找我玩 助力我成功戒o🩹🩹\nWorld's really stomping on your dreams.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vincentcharbon…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vincentcharbonneau2",
+                "start": 0,
+                "url": "https://t.co/9q4lnmyfhK"
+              }
+            ]
+          }
+        },
+        "id": "1820734137483001856",
+        "location": "天国",
+        "name": "Vincent Charbonneau🧬🧬",
+        "pinned_tweet_id": "2048328477011808329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047872378265563136/0b59DQZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 112,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 25
+        },
+        "url": "https://t.co/9q4lnmyfhK",
+        "username": "VincentChar",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-06T04:01:26.000Z",
+        "description": "🩹🩹我是小文Vincent丨重焦oder pr至上丨大号@VincentChar药物相关\nWorld's really stomping on your dreams.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "VincentChar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vincentcharbon…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vincentcharbonneau2",
+                "start": 0,
+                "url": "https://t.co/aeqBJzk2FY"
+              }
+            ]
+          }
+        },
+        "id": "2051874144929886208",
+        "location": "天国",
+        "name": "Vincent bonneau💉💉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051875530035941376/XhPSdg0u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "url": "https://t.co/aeqBJzk2FY",
+        "username": "Vincentbonneax",
+        "verified": false
+      }
+    ]
+  }
+}

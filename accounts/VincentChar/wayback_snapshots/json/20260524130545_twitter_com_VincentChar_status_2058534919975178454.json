@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058534903302729729",
+        "3_2058534903286005760"
+      ]
+    },
+    "author_id": "1820734137483001856",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2058534919975178454",
+    "created_at": "2026-05-24T13:05:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T14:05:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058534919975178454"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7hrM6v8wnE",
+          "end": 70,
+          "expanded_url": "https://x.com/VincentChar/status/2058534919975178454/photo/1",
+          "media_key": "3_2058534903302729729",
+          "start": 47,
+          "url": "https://t.co/7hrM6v8wnE"
+        },
+        {
+          "display_url": "pic.x.com/7hrM6v8wnE",
+          "end": 70,
+          "expanded_url": "https://x.com/VincentChar/status/2058534919975178454/photo/1",
+          "media_key": "3_2058534903286005760",
+          "start": 47,
+          "url": "https://t.co/7hrM6v8wnE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058534919975178454",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真的要笑死了精神痛啊去o舍曲林，\n孩子，你是不是想开普瑞巴林呢\n嗯，但我不算od，顶多4t https://t.co/7hrM6v8wnE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2058534903302729729",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJFiloUaMAEaPTg.jpg",
+        "width": 473
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2058534903286005760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJFiloQbAAAviRv.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058534903302729729",
+            "3_2058534903286005760"
+          ]
+        },
+        "author_id": "1820734137483001856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058534919975178454",
+        "created_at": "2026-05-24T13:05:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T14:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058534919975178454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7hrM6v8wnE",
+              "end": 70,
+              "expanded_url": "https://x.com/VincentChar/status/2058534919975178454/photo/1",
+              "media_key": "3_2058534903302729729",
+              "start": 47,
+              "url": "https://t.co/7hrM6v8wnE"
+            },
+            {
+              "display_url": "pic.x.com/7hrM6v8wnE",
+              "end": 70,
+              "expanded_url": "https://x.com/VincentChar/status/2058534919975178454/photo/1",
+              "media_key": "3_2058534903286005760",
+              "start": 47,
+              "url": "https://t.co/7hrM6v8wnE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058534919975178454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的要笑死了精神痛啊去o舍曲林，\n孩子，你是不是想开普瑞巴林呢\n嗯，但我不算od，顶多4t https://t.co/7hrM6v8wnE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-06T08:10:30.000Z",
+        "description": "我是小文Vincent Charbonneau\n重焦精分oder 致幻劑 解離劑 策劃藥至上丨INTP-T\n我喜歡Resident Evil4 塞爾達傳說 GTA5\nWorld's really stomping on your dreams.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vincentcharbon…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vincentcharbonneau2",
+                "start": 0,
+                "url": "https://t.co/9q4lnmyfhK"
+              }
+            ]
+          }
+        },
+        "id": "1820734137483001856",
+        "location": "天国",
+        "name": "Vincent Charbonneau",
+        "pinned_tweet_id": "2057788188584989134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057581681855635456/VUL3peTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 167,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 69
+        },
+        "url": "https://t.co/9q4lnmyfhK",
+        "username": "VincentChar",
+        "verified": false
+      }
+    ]
+  }
+}

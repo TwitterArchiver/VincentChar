@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1821494125587537920"
+      ]
+    },
+    "author_id": "1820734137483001856",
+    "conversation_id": "1821494314264093034",
+    "created_at": "2024-08-08T10:31:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-08T11:31:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1821494314264093034"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wkxtpeiiiy",
+          "end": 54,
+          "expanded_url": "https://twitter.com/VincentChar/status/1821494314264093034/video/1",
+          "media_key": "7_1821494125587537920",
+          "start": 31,
+          "url": "https://t.co/WkxtPEIIIy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1821494314264093034",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“vince，在那一瞬间，你是否终于分清了自己的爱意与食欲” https://t.co/WkxtPEIIIy"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18716,
+        "height": 720,
+        "media_key": "7_1821494125587537920",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1821494125587537920/pu/img/46XF4f8LNQwCi0Vs.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1821494125587537920/pu/vid/avc1/280x270/KAViuATnmB5ZIfST.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1821494125587537920/pu/vid/avc1/374x360/fzJXB4SBM5kFkPZV.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1821494125587537920/pu/vid/avc1/748x720/977iRSGMhveAKDl1.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1821494125587537920/pu/pl/0a1Z40M_8S6Kf_x_.m3u8?tag=12"
+          }
+        ],
+        "width": 748
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1821494125587537920"
+          ]
+        },
+        "author_id": "1820734137483001856",
+        "conversation_id": "1821494314264093034",
+        "created_at": "2024-08-08T10:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-08T11:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1821494314264093034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wkxtpeiiiy",
+              "end": 54,
+              "expanded_url": "https://twitter.com/VincentChar/status/1821494314264093034/video/1",
+              "media_key": "7_1821494125587537920",
+              "start": 31,
+              "url": "https://t.co/WkxtPEIIIy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821494314264093034",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“vince，在那一瞬间，你是否终于分清了自己的爱意与食欲” https://t.co/WkxtPEIIIy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-06T08:10:30.000Z",
+        "description": "有情感障碍m👾👾intp混圈杂不线下/二次.vx➕Emmm_0018👾👾【xp重口慎加】",
+        "id": "1820734137483001856",
+        "location": "浙江",
+        "name": "Vincent Charbonneau",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820993579495649288/wauuyAW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 15,
+          "like_count": 14,
+          "listed_count": 0,
+          "tweet_count": 10
+        },
+        "username": "VincentChar",
+        "verified": false
+      }
+    ]
+  }
+}

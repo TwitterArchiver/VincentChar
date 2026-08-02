@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820734137483001856",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2050390677801083128",
+    "created_at": "2026-05-02T01:43:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T02:43:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050390677801083128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1944331145254219776",
+          "start": 3,
+          "username": "MRSqusgpIO24853"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050390677801083128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050201015241277844",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MRSqusgpIO24853: これからはお薬系のツイートは全部伏せ字を使うべし。\n５月規制の影響でTwitterでもより規制が厳しくなると思うから最悪凍結リスクもあると考えるべきだからやるときもツイートはしないかサブ垢で伏せ字を使った上で自分はツイートするべきだと思…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820734137483001856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2050390677801083128",
+        "created_at": "2026-05-02T01:43:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T02:43:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050390677801083128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1944331145254219776",
+              "start": 3,
+              "username": "MRSqusgpIO24853"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050390677801083128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050201015241277844",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MRSqusgpIO24853: これからはお薬系のツイートは全部伏せ字を使うべし。\n５月規制の影響でTwitterでもより規制が厳しくなると思うから最悪凍結リスクもあると考えるべきだからやるときもツイートはしないかサブ垢で伏せ字を使った上で自分はツイートするべきだと思…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944331145254219776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2050201015241277844",
+        "created_at": "2026-05-01T13:09:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T14:09:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050201015241277844"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MRSqusgpIO2485…",
+              "end": 144,
+              "expanded_url": "https://twitter.com/MRSqusgpIO24853/status/2050183837985231036",
+              "start": 121,
+              "url": "https://t.co/ibj7NMLMP8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050201015241277844",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1529,
+          "like_count": 43,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050183837985231036",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "これからはお薬系のツイートは全部伏せ字を使うべし。\n５月規制の影響でTwitterでもより規制が厳しくなると思うから最悪凍結リスクもあると考えるべきだからやるときもツイートはしないかサブ垢で伏せ字を使った上で自分はツイートするべきだと思う。 https://t.co/ibj7NMLMP8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-06T08:10:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "🩹🩹我是小文Vincent丨重焦oder pr至上丨INTP-T丨我喜欢Resident Evil4 塞尔达传说 主播女孩 GTA5丨你们可以找我玩 助力我成功戒o🩹🩹\nWorld's really stomping on your dreams.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vincentcharbon…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vincentcharbonneau2",
+                "start": 0,
+                "url": "https://t.co/9q4lnmyfhK"
+              }
+            ]
+          }
+        },
+        "id": "1820734137483001856",
+        "location": "天国",
+        "name": "Vincent Charbonneau🧬🧬",
+        "pinned_tweet_id": "2048328477011808329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047872378265563136/0b59DQZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 112,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 20
+        },
+        "url": "https://t.co/9q4lnmyfhK",
+        "username": "VincentChar",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T09:40:54.000Z",
+        "description": "呟きたいことをここに書きます。\n闘病垢。\nDMは時差あるかもなんで許して。\n\nADHD+ASD+片親+不安障害+うつ+人間関係苦手+色々。\nhttps://t.co/EG3rFy7wnvサブ垢",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/d07JbZ74UG304",
+                "end": 93,
+                "expanded_url": "https://x.com/d07JbZ74UG304",
+                "start": 70,
+                "url": "https://t.co/EG3rFy7wnv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/imsqvgdgp6k68a…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/imsqvgdgp6k68ah?t=Bvbghr&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/yy4SqCY1Dp"
+              }
+            ]
+          }
+        },
+        "id": "1944331145254219776",
+        "name": "もち💨",
+        "pinned_tweet_id": "2050088099196367304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017867588504850434/M3ivTom7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 425,
+          "like_count": 45475,
+          "listed_count": 6,
+          "media_count": 192,
+          "tweet_count": 2675
+        },
+        "url": "https://t.co/yy4SqCY1Dp",
+        "username": "MRSqusgpIO24853",
+        "verified": false
+      }
+    ]
+  }
+}

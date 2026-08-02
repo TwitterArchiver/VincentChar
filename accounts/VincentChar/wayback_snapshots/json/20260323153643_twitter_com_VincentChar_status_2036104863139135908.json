@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820734137483001856",
+    "conversation_id": "2035994715234127929",
+    "created_at": "2026-03-23T15:36:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T16:36:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036104863139135908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "207903314",
+          "start": 0,
+          "username": "shadouyoua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036104863139135908",
+    "in_reply_to_user_id": "207903314",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035994715234127929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shadouyoua 虽说胃确实喜冷 但不是喜冰啊 冰水也是不好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820734137483001856",
+        "conversation_id": "2035994715234127929",
+        "created_at": "2026-03-23T15:36:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T16:36:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036104863139135908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "207903314",
+              "start": 0,
+              "username": "shadouyoua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036104863139135908",
+        "in_reply_to_user_id": "207903314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035994715234127929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shadouyoua 虽说胃确实喜冷 但不是喜冰啊 冰水也是不好的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "207903314",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2035994715234127929",
+        "created_at": "2026-03-23T08:19:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T09:19:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035994715234127929"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035994715234127929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 178,
+          "impression_count": 219360,
+          "like_count": 592,
+          "quote_count": 5,
+          "reply_count": 205,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "总结一下户晨风的观点：\n1、中医不科学\n2、英语重要\n3、苹果手机好\n4、中餐不健康\n5、油车首选丰田，电车首选特斯拉\n6、喝热水会得咽喉癌，冷水不伤胃\n7、喝粥不健康，中国人应该多吃牛肉、蛋、奶\n8、没有山姆没有苹果直营店没有国际机场，且直达美日澳新的城市，年轻人不要待………"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-06T08:10:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "NO",
+              "full_name": "Norway",
+              "geo": {
+                "coordinates": [
+                  10.0,
+                  62.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "Welcome to tour my corpse my organs  and this set of tortures imposed upon me.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "i.aois.top",
+                "end": 23,
+                "expanded_url": "http://i.aois.top",
+                "start": 0,
+                "url": "https://t.co/zys1hpdF1X"
+              }
+            ]
+          }
+        },
+        "id": "1820734137483001856",
+        "location": "挪威",
+        "name": "Vincent Charbonneau",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933575576767614976/9Hrk_nPv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 90,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "url": "https://t.co/zys1hpdF1X",
+        "username": "VincentChar",
+        "verified": false
+      },
+      {
+        "created_at": "2010-10-26T08:05:35.000Z",
+        "description": "收集和分享好东西：🌍泛互联网 + 💻科技 + 🤖Al + 📃学习 + 🤑Crypto 我常用的AI效率工具Flowith ：https://t.co/TGpE7Yh6KA 找番号：https://t.co/NxnGRPzCEZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "flowith.io/?inv=5VA0HF9AE…",
+                "end": 85,
+                "expanded_url": "https://flowith.io?inv=5VA0HF9AE9SKP4WL",
+                "start": 62,
+                "url": "https://t.co/TGpE7Yh6KA"
+              },
+              {
+                "display_url": "t.me/jisou?start=a_…",
+                "end": 113,
+                "expanded_url": "https://t.me/jisou?start=a_5636465068",
+                "start": 90,
+                "url": "https://t.co/NxnGRPzCEZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbshare.site",
+                "end": 23,
+                "expanded_url": "https://bbshare.site",
+                "start": 0,
+                "url": "https://t.co/7spZCJlQZ0"
+              }
+            ]
+          }
+        },
+        "id": "207903314",
+        "name": "bbshare",
+        "pinned_tweet_id": "2016876968449560723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861627847343058944/CJLGJ_-__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48913,
+          "following_count": 840,
+          "like_count": 10673,
+          "listed_count": 261,
+          "media_count": 4184,
+          "tweet_count": 11587
+        },
+        "url": "https://t.co/7spZCJlQZ0",
+        "username": "shadouyoua",
+        "verified": true
+      }
+    ]
+  }
+}

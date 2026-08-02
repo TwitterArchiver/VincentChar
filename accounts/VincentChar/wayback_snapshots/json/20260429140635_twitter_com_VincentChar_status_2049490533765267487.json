@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820734137483001856",
+    "conversation_id": "2046895013435777105",
+    "created_at": "2026-04-29T14:06:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T15:06:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049490533765267487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1944331145254219776",
+          "start": 0,
+          "username": "MRSqusgpIO24853"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049490533765267487",
+    "in_reply_to_user_id": "1944331145254219776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046895013435777105",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MRSqusgpIO24853 今では簡単に飲み込むことができる50t…ODがなかった頃が本当に懐かしいな"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820734137483001856",
+        "conversation_id": "2046895013435777105",
+        "created_at": "2026-04-29T14:06:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T15:06:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049490533765267487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1944331145254219776",
+              "start": 0,
+              "username": "MRSqusgpIO24853"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049490533765267487",
+        "in_reply_to_user_id": "1944331145254219776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046895013435777105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MRSqusgpIO24853 今では簡単に飲み込むことができる50t…ODがなかった頃が本当に懐かしいな"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944331145254219776",
+        "conversation_id": "2046895013435777105",
+        "created_at": "2026-04-22T10:12:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T11:12:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046895013435777105"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046895013435777105",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 15647,
+          "like_count": 587,
+          "quote_count": 7,
+          "reply_count": 8,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "ＯＤに慣れてくるとＯＤ始めた頃はメジ5tでもビビってたけど今は初めての薬でＯＤやる時も30t〜40tは抵抗なく飲めるような感覚になってきて成長を感じる"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-06T08:10:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "🩹🩹我是小文Vincent丨重焦oder pr至上丨INTP-T丨我喜欢Resident Evil4 塞尔达传说 主播女孩 GTA5丨你们可以找我玩 助力我成功戒o🩹🩹\nWorld's really stomping on your dreams.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vincentcharbon…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vincentcharbonneau2",
+                "start": 0,
+                "url": "https://t.co/9q4lnmyfhK"
+              }
+            ]
+          }
+        },
+        "id": "1820734137483001856",
+        "location": "天国",
+        "name": "Vincent Charbonneau🧬🧬",
+        "pinned_tweet_id": "2048328477011808329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047872378265563136/0b59DQZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 111,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 17
+        },
+        "url": "https://t.co/9q4lnmyfhK",
+        "username": "VincentChar",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T09:40:54.000Z",
+        "description": "呟きたいことをここに書きます\n0Ｄ界隈\nDMは時差あるかもなんで許して\nサブ垢\nhttps://t.co/EG3rFy7wnv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/d07JbZ74UG304",
+                "end": 63,
+                "expanded_url": "https://x.com/d07JbZ74UG304",
+                "start": 40,
+                "url": "https://t.co/EG3rFy7wnv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/imsqvgdgp6k68a…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/imsqvgdgp6k68ah?t=Bvbghr&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/yy4SqCY1Dp"
+              }
+            ]
+          }
+        },
+        "id": "1944331145254219776",
+        "name": "もち💨",
+        "pinned_tweet_id": "2044191987876934089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017867588504850434/M3ivTom7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 410,
+          "like_count": 44167,
+          "listed_count": 6,
+          "media_count": 192,
+          "tweet_count": 2622
+        },
+        "url": "https://t.co/yy4SqCY1Dp",
+        "username": "MRSqusgpIO24853",
+        "verified": false
+      }
+    ]
+  }
+}

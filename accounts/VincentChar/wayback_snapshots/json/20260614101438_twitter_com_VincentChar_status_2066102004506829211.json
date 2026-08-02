@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820734137483001856",
+    "conversation_id": "2066102004506829211",
+    "created_at": "2026-06-14T10:14:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T11:14:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066102004506829211"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066102004506829211",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我以前很喜欢睡觉，觉得可以什么都不知道，可以和这个世界暂时隔绝，醒过来的时候看到光亮会有种失落感，想到自己又要面对这个世界，面对生活中令人心烦意乱的事情。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820734137483001856",
+        "conversation_id": "2066102004506829211",
+        "created_at": "2026-06-14T10:14:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:14:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066102004506829211"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066102004506829211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我以前很喜欢睡觉，觉得可以什么都不知道，可以和这个世界暂时隔绝，醒过来的时候看到光亮会有种失落感，想到自己又要面对这个世界，面对生活中令人心烦意乱的事情。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-06T08:10:30.000Z",
+        "description": "リスカ￤OD￤病み垢￤くず\nRCs Dissos Psyches Deliriants、",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vincentcharbon…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vincentcharbonneau32914",
+                "start": 0,
+                "url": "https://t.co/K7v18DP8j5"
+              }
+            ]
+          }
+        },
+        "id": "1820734137483001856",
+        "location": "🚪52/88/520",
+        "name": "Vincent Charbonneau",
+        "pinned_tweet_id": "2065067582194098236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065047085049917440/hqRykxsZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 198,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 118
+        },
+        "url": "https://t.co/K7v18DP8j5",
+        "username": "VincentChar",
+        "verified": false
+      }
+    ]
+  }
+}

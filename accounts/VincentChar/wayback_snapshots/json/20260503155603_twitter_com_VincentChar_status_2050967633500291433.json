@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2049039869918461952"
+      ]
+    },
+    "author_id": "1820734137483001856",
+    "conversation_id": "2050967633500291433",
+    "created_at": "2026-05-03T15:56:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T16:56:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050967633500291433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1937073350750466048",
+          "start": 3,
+          "username": "karo269640607"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050967633500291433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049039870967140364",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @karo269640607: oder们为什么od？"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 10080,
+        "end_datetime": "2026-05-05T08:15:48.000Z",
+        "id": "2049039869918461952",
+        "options": [
+          {
+            "label": "我单纯想玩",
+            "position": 1,
+            "votes": 68
+          },
+          {
+            "label": "我因为xx原因/精神疾病想要治疗",
+            "position": 2,
+            "votes": 58
+          },
+          {
+            "label": "我又想玩又想治疗",
+            "position": 3,
+            "votes": 72
+          },
+          {
+            "label": "毒品太贵了并且成瘾性好强，我想玩安全一点的",
+            "position": 4,
+            "votes": 47
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2049039869918461952"
+          ]
+        },
+        "author_id": "1820734137483001856",
+        "conversation_id": "2050967633500291433",
+        "created_at": "2026-05-03T15:56:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T16:56:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050967633500291433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1937073350750466048",
+              "start": 3,
+              "username": "karo269640607"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050967633500291433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049039870967140364",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @karo269640607: oder们为什么od？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2049039869918461952"
+          ]
+        },
+        "author_id": "1937073350750466048",
+        "conversation_id": "2049039870967140364",
+        "created_at": "2026-04-28T08:15:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T09:15:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049039870967140364"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049039870967140364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3676,
+          "like_count": 35,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "oder们为什么od？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-06T08:10:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "🩹🩹我是小文Vincent丨重焦oder pr至上丨INTP-T丨我喜欢Resident Evil4 塞尔达传说 主播女孩 GTA5丨你们可以找我玩 助力我成功戒o🩹🩹\nWorld's really stomping on your dreams.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vincentcharbon…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vincentcharbonneau2",
+                "start": 0,
+                "url": "https://t.co/9q4lnmyfhK"
+              }
+            ]
+          }
+        },
+        "id": "1820734137483001856",
+        "location": "天国",
+        "name": "Vincent Charbonneau🧬🧬",
+        "pinned_tweet_id": "2048328477011808329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047872378265563136/0b59DQZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 112,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 22
+        },
+        "url": "https://t.co/9q4lnmyfhK",
+        "username": "VincentChar",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T09:01:20.000Z",
+        "description": "o割餐券 |  虚无主义 | 顺女女同 | 生物化学药理板绘❤️ | 同类互fo | 使用英文和简体中文|讨厌一切宗教 |恐游像素RPG爱好者|任何物种或性取向欢迎 | 化学极乐 | 基佬孝女言切 衛拓拒拆逆、生化里昂右向全肯定| 骂我的全家替我挡灾",
+        "id": "1937073350750466048",
+        "name": "请代我看看这个世界",
+        "pinned_tweet_id": "2039982674664960247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028587877639045120/B1wypVK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 425,
+          "like_count": 22508,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 3922
+        },
+        "username": "karo269640607",
+        "verified": false
+      }
+    ]
+  }
+}

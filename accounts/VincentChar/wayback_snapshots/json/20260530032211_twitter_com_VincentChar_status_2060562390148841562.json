@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820734137483001856",
+    "conversation_id": "2060562390148841562",
+    "created_at": "2026-05-30T03:22:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T04:22:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060562390148841562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1934615181524615168",
+          "start": 3,
+          "username": "sji1086477"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060562390148841562",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060124849301856374",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sji1086477: 我的推特主页上刷新出了全球的oder、精神病、餐券、小众b"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820734137483001856",
+        "conversation_id": "2060562390148841562",
+        "created_at": "2026-05-30T03:22:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T04:22:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060562390148841562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1934615181524615168",
+              "start": 3,
+              "username": "sji1086477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060562390148841562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060124849301856374",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sji1086477: 我的推特主页上刷新出了全球的oder、精神病、餐券、小众b"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2060124849301856374",
+        "created_at": "2026-05-28T22:23:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T23:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060124849301856374"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060124849301856374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 11194,
+          "like_count": 451,
+          "quote_count": 3,
+          "reply_count": 47,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "我的推特主页上刷新出了全球的oder、精神病、餐券、小众b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-06T08:10:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "我是小文Vincent Charbonneau\n重焦精分oder 致幻劑 解離劑 策劃藥至上丨INTP-T\n我喜歡Resident Evil4 塞爾達傳說 GTA5\nWorld's really stomping on your dreams.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vincentcharbon…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vincentcharbonneau2",
+                "start": 0,
+                "url": "https://t.co/9q4lnmyfhK"
+              }
+            ]
+          }
+        },
+        "id": "1820734137483001856",
+        "location": "天国",
+        "name": "Vincent Charbonneau",
+        "pinned_tweet_id": "2057788188584989134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057581681855635456/VUL3peTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 170,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 90
+        },
+        "url": "https://t.co/9q4lnmyfhK",
+        "username": "VincentChar",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "祈川  / 07  / 女 /  碎碎念  / 休学备考中…  /  这里是我发疯的唯一途径  / 不是健全人  / 戒o / 反父权剥削 / 身体自主权 / 轻微键政 / 长期失眠焦虑 /  我很善良，欢迎互fo，会看成分（粉红走开）",
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041271972093661184/_tZ4Ye3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 103,
+          "like_count": 1906,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 883
+        },
+        "username": "sji1086477",
+        "verified": false
+      }
+    ]
+  }
+}

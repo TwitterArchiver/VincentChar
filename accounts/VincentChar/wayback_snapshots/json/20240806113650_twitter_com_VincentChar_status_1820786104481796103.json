@@ -1,0 +1,86 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820734137483001856",
+    "conversation_id": "1820786104481796103",
+    "created_at": "2024-08-06T11:36:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-06T12:36:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1820786104481796103"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1820786104481796103",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "主人……想看大鸡巴…小狗骚穴好痒555，好想被主人的大鸡巴操死……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820734137483001856",
+        "conversation_id": "1820786104481796103",
+        "created_at": "2024-08-06T11:36:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-06T12:36:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1820786104481796103"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1820786104481796103",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "主人……想看大鸡巴…小狗骚穴好痒555，好想被主人的大鸡巴操死……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-06T08:10:30.000Z",
+        "description": "有情感障碍m👾找主中.玩的花放得开👾intp不线下/二次.vx➕Emmm_0018",
+        "id": "1820734137483001856",
+        "location": "浙江",
+        "name": "Vincent Charbonneau",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820734290910416896/ksAkDD-2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 11,
+          "listed_count": 0,
+          "tweet_count": 6
+        },
+        "username": "VincentChar",
+        "verified": false
+      }
+    ]
+  }
+}

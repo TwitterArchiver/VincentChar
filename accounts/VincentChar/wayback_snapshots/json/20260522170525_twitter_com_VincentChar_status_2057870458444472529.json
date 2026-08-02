@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2057870372649992192"
+      ]
+    },
+    "author_id": "1820734137483001856",
+    "conversation_id": "2057870458444472529",
+    "created_at": "2026-05-22T17:05:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T18:05:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057870458444472529"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/G1cxJtJP2R",
+          "end": 23,
+          "expanded_url": "https://x.com/VincentChar/status/2057870458444472529/photo/1",
+          "media_key": "16_2057870372649992192",
+          "start": 0,
+          "url": "https://t.co/G1cxJtJP2R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057870458444472529",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/G1cxJtJP2R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_2057870372649992192",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HI8GM2uagAA7023.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HI8GM2uagAA7023.mp4"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2057870372649992192"
+          ]
+        },
+        "author_id": "1820734137483001856",
+        "conversation_id": "2057870458444472529",
+        "created_at": "2026-05-22T17:05:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T18:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057870458444472529"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G1cxJtJP2R",
+              "end": 23,
+              "expanded_url": "https://x.com/VincentChar/status/2057870458444472529/photo/1",
+              "media_key": "16_2057870372649992192",
+              "start": 0,
+              "url": "https://t.co/G1cxJtJP2R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057870458444472529",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/G1cxJtJP2R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-06T08:10:30.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "我是小文Vincent Charbonneau\n重焦精分oder 致幻劑 解離劑 策劃藥至上丨INTP-T\n我喜歡Resident Evil4 塞爾達傳說 GTA5\nWorld's really stomping on your dreams.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vincentcharbon…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vincentcharbonneau2",
+                "start": 0,
+                "url": "https://t.co/9q4lnmyfhK"
+              }
+            ]
+          }
+        },
+        "id": "1820734137483001856",
+        "location": "天国",
+        "name": "Vincent Charbonneau",
+        "pinned_tweet_id": "2057787074309394739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057581681855635456/VUL3peTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 159,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 65
+        },
+        "url": "https://t.co/9q4lnmyfhK",
+        "username": "VincentChar",
+        "verified": false
+      }
+    ]
+  }
+}
